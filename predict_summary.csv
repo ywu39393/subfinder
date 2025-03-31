@@ -1,0 +1,289 @@
+sequence,substrate,probability_score,p_value
+1.A.33 GT2 null null 2.A.19 Aminotran_1_2 null GT62 9.A.29 2.A.1 null 4.C.2 null null CBM50_e307 null Zn_clus 3.A.25 null 9.A.19 3.A.2 3.D.1 HATPase_c,alpha-glucan,0.7566666666666666,0.0
+1.A.33 GT2 null null 2.A.19 Aminotran_1_2 null GT62 9.A.29 2.A.1 null 4.C.2 null null CBM50_e307 null Zn_clus 3.A.25 null 9.A.19 3.A.2 3.D.1 HATPase_c,beta-glucan,0.7206607686521611,0.0
+1.A.33 GT2 null null 2.A.19 Aminotran_1_2 null GT62 9.A.29 2.A.1 null 4.C.2 null null CBM50_e307 null Zn_clus 3.A.25 null 9.A.19 3.A.2 3.D.1 HATPase_c,beta-mannan,0.639829582042098,0.0
+1.A.33 GT2 null null 2.A.19 Aminotran_1_2 null GT62 9.A.29 2.A.1 null 4.C.2 null null CBM50_e307 null Zn_clus 3.A.25 null 9.A.19 3.A.2 3.D.1 HATPase_c,galactan,0.6445760517799353,0.0
+1.A.33 GT2 null null 2.A.19 Aminotran_1_2 null GT62 9.A.29 2.A.1 null 4.C.2 null null CBM50_e307 null Zn_clus 3.A.25 null 9.A.19 3.A.2 3.D.1 HATPase_c,chitin,0.5366666666666667,0.059234619140625
+1.A.33 GT2 null null 2.A.19 Aminotran_1_2 null GT62 9.A.29 2.A.1 null 4.C.2 null null CBM50_e307 null Zn_clus 3.A.25 null 9.A.19 3.A.2 3.D.1 HATPase_c,pectin,0.5366666666666667,0.059234619140625
+1.A.33 GT2 null null 2.A.19 Aminotran_1_2 null GT62 9.A.29 2.A.1 null 4.C.2 null null CBM50_e307 null Zn_clus 3.A.25 null 9.A.19 3.A.2 3.D.1 HATPase_c,host glycan,0.5158760940141733,0.4999999999999999
+1.A.33 GT2 null null 2.A.19 Aminotran_1_2 null GT62 9.A.29 2.A.1 null 4.C.2 null null CBM50_e307 null Zn_clus 3.A.25 null 9.A.19 3.A.2 3.D.1 HATPase_c,xylan,0.362,0.996307373046875
+1.A.33 GT2 null null 2.A.19 Aminotran_1_2 null GT62 9.A.29 2.A.1 null 4.C.2 null null CBM50_e307 null Zn_clus 3.A.25 null 9.A.19 3.A.2 3.D.1 HATPase_c,alginate,0.17933333333333332,0.999969482421875
+1.A.33 GT2 null null 2.A.19 Aminotran_1_2 null GT62 9.A.29 2.A.1 null 4.C.2 null null CBM50_e307 null Zn_clus 3.A.25 null 9.A.19 3.A.2 3.D.1 HATPase_c,alpha-mannan,0.15465129449838189,0.999969482421875
+1.A.33 GT2 null null 2.A.19 Aminotran_1_2 null GT62 9.A.29 2.A.1 null 4.C.2 null null CBM50_e307 null Zn_clus 3.A.25 null 9.A.19 3.A.2 3.D.1 HATPase_c,arabinogalactan,0.306,0.999969482421875
+1.A.33 GT2 null null 2.A.19 Aminotran_1_2 null GT62 9.A.29 2.A.1 null 4.C.2 null null CBM50_e307 null Zn_clus 3.A.25 null 9.A.19 3.A.2 3.D.1 HATPase_c,fructan,0.30199566965666563,0.999969482421875
+1.A.8 null none null null CE4 null GT2 null null PALP CBS 3.A.5 9.B.37 3.A.1,alpha-glucan,0.7566666666666666,0.0
+1.A.8 null none null null CE4 null GT2 null null PALP CBS 3.A.5 9.B.37 3.A.1,beta-glucan,0.7206607686521611,0.0
+1.A.8 null none null null CE4 null GT2 null null PALP CBS 3.A.5 9.B.37 3.A.1,beta-mannan,0.639829582042098,0.0
+1.A.8 null none null null CE4 null GT2 null null PALP CBS 3.A.5 9.B.37 3.A.1,galactan,0.6445760517799353,0.0
+1.A.8 null none null null CE4 null GT2 null null PALP CBS 3.A.5 9.B.37 3.A.1,chitin,0.5366666666666667,0.059234619140625
+1.A.8 null none null null CE4 null GT2 null null PALP CBS 3.A.5 9.B.37 3.A.1,pectin,0.5366666666666667,0.059234619140625
+1.A.8 null none null null CE4 null GT2 null null PALP CBS 3.A.5 9.B.37 3.A.1,host glycan,0.5158760940141733,0.4999999999999999
+1.A.8 null none null null CE4 null GT2 null null PALP CBS 3.A.5 9.B.37 3.A.1,xylan,0.362,0.996307373046875
+1.A.8 null none null null CE4 null GT2 null null PALP CBS 3.A.5 9.B.37 3.A.1,alginate,0.17933333333333332,0.999969482421875
+1.A.8 null none null null CE4 null GT2 null null PALP CBS 3.A.5 9.B.37 3.A.1,alpha-mannan,0.15465129449838189,0.999969482421875
+1.A.8 null none null null CE4 null GT2 null null PALP CBS 3.A.5 9.B.37 3.A.1,arabinogalactan,0.306,0.999969482421875
+1.A.8 null none null null CE4 null GT2 null null PALP CBS 3.A.5 9.B.37 3.A.1,fructan,0.30199566965666563,0.999969482421875
+1.I.1 null Pkinase GT8 null Acetyltransf_1,alpha-glucan,0.7566666666666666,0.0
+1.I.1 null Pkinase GT8 null Acetyltransf_1,beta-glucan,0.7206607686521611,0.0
+1.I.1 null Pkinase GT8 null Acetyltransf_1,beta-mannan,0.639829582042098,0.0
+1.I.1 null Pkinase GT8 null Acetyltransf_1,galactan,0.6445760517799353,0.0
+1.I.1 null Pkinase GT8 null Acetyltransf_1,chitin,0.5366666666666667,0.059234619140625
+1.I.1 null Pkinase GT8 null Acetyltransf_1,pectin,0.5366666666666667,0.059234619140625
+1.I.1 null Pkinase GT8 null Acetyltransf_1,host glycan,0.5158760940141733,0.4999999999999999
+1.I.1 null Pkinase GT8 null Acetyltransf_1,xylan,0.362,0.996307373046875
+1.I.1 null Pkinase GT8 null Acetyltransf_1,alginate,0.17933333333333332,0.999969482421875
+1.I.1 null Pkinase GT8 null Acetyltransf_1,alpha-mannan,0.15465129449838189,0.999969482421875
+1.I.1 null Pkinase GT8 null Acetyltransf_1,arabinogalactan,0.306,0.999969482421875
+1.I.1 null Pkinase GT8 null Acetyltransf_1,fructan,0.30199566965666563,0.999969482421875
+3.D.1 GH43_34 CBM66 null Zn_clus null null GH76 null Pkinase null GH30_5,alpha-glucan,0.7566666666666666,0.0
+3.D.1 GH43_34 CBM66 null Zn_clus null null GH76 null Pkinase null GH30_5,beta-glucan,0.7206607686521611,0.0
+3.D.1 GH43_34 CBM66 null Zn_clus null null GH76 null Pkinase null GH30_5,beta-mannan,0.639829582042098,0.0
+3.D.1 GH43_34 CBM66 null Zn_clus null null GH76 null Pkinase null GH30_5,galactan,0.6445760517799353,0.0
+3.D.1 GH43_34 CBM66 null Zn_clus null null GH76 null Pkinase null GH30_5,chitin,0.5366666666666667,0.059234619140625
+3.D.1 GH43_34 CBM66 null Zn_clus null null GH76 null Pkinase null GH30_5,pectin,0.5366666666666667,0.059234619140625
+3.D.1 GH43_34 CBM66 null Zn_clus null null GH76 null Pkinase null GH30_5,host glycan,0.5158760940141733,0.4999999999999999
+3.D.1 GH43_34 CBM66 null Zn_clus null null GH76 null Pkinase null GH30_5,xylan,0.362,0.996307373046875
+3.D.1 GH43_34 CBM66 null Zn_clus null null GH76 null Pkinase null GH30_5,alginate,0.17933333333333332,0.999969482421875
+3.D.1 GH43_34 CBM66 null Zn_clus null null GH76 null Pkinase null GH30_5,alpha-mannan,0.15465129449838189,0.999969482421875
+3.D.1 GH43_34 CBM66 null Zn_clus null null GH76 null Pkinase null GH30_5,arabinogalactan,0.306,0.999969482421875
+3.D.1 GH43_34 CBM66 null Zn_clus null null GH76 null Pkinase null GH30_5,fructan,0.30199566965666563,0.999969482421875
+3.D.1 null null Pyr_redox_2 null 9.A.63 null null NIR_SIR_ferr NIR_SIR NIR_SIR_ferr GT2 GT2 null null 3.A.2 null null PHD,alpha-glucan,0.7566666666666666,0.0
+3.D.1 null null Pyr_redox_2 null 9.A.63 null null NIR_SIR_ferr NIR_SIR NIR_SIR_ferr GT2 GT2 null null 3.A.2 null null PHD,beta-glucan,0.7206607686521611,0.0
+3.D.1 null null Pyr_redox_2 null 9.A.63 null null NIR_SIR_ferr NIR_SIR NIR_SIR_ferr GT2 GT2 null null 3.A.2 null null PHD,beta-mannan,0.639829582042098,0.0
+3.D.1 null null Pyr_redox_2 null 9.A.63 null null NIR_SIR_ferr NIR_SIR NIR_SIR_ferr GT2 GT2 null null 3.A.2 null null PHD,galactan,0.6445760517799353,0.0
+3.D.1 null null Pyr_redox_2 null 9.A.63 null null NIR_SIR_ferr NIR_SIR NIR_SIR_ferr GT2 GT2 null null 3.A.2 null null PHD,chitin,0.5366666666666667,0.059234619140625
+3.D.1 null null Pyr_redox_2 null 9.A.63 null null NIR_SIR_ferr NIR_SIR NIR_SIR_ferr GT2 GT2 null null 3.A.2 null null PHD,pectin,0.5366666666666667,0.059234619140625
+3.D.1 null null Pyr_redox_2 null 9.A.63 null null NIR_SIR_ferr NIR_SIR NIR_SIR_ferr GT2 GT2 null null 3.A.2 null null PHD,host glycan,0.5158760940141733,0.4999999999999999
+3.D.1 null null Pyr_redox_2 null 9.A.63 null null NIR_SIR_ferr NIR_SIR NIR_SIR_ferr GT2 GT2 null null 3.A.2 null null PHD,xylan,0.362,0.996307373046875
+3.D.1 null null Pyr_redox_2 null 9.A.63 null null NIR_SIR_ferr NIR_SIR NIR_SIR_ferr GT2 GT2 null null 3.A.2 null null PHD,alginate,0.17933333333333332,0.999969482421875
+3.D.1 null null Pyr_redox_2 null 9.A.63 null null NIR_SIR_ferr NIR_SIR NIR_SIR_ferr GT2 GT2 null null 3.A.2 null null PHD,alpha-mannan,0.15465129449838189,0.999969482421875
+3.D.1 null null Pyr_redox_2 null 9.A.63 null null NIR_SIR_ferr NIR_SIR NIR_SIR_ferr GT2 GT2 null null 3.A.2 null null PHD,arabinogalactan,0.306,0.999969482421875
+3.D.1 null null Pyr_redox_2 null 9.A.63 null null NIR_SIR_ferr NIR_SIR NIR_SIR_ferr GT2 GT2 null null 3.A.2 null null PHD,fructan,0.30199566965666563,0.999969482421875
+8.A.21 3.A.25 null Pribosyltran null GH15 null 1.I.1 null zf-MYND AA12 GH47 null 9.B.106 null 3.A.20 null null bZIP_1,alpha-glucan,0.7566666666666666,0.0
+8.A.21 3.A.25 null Pribosyltran null GH15 null 1.I.1 null zf-MYND AA12 GH47 null 9.B.106 null 3.A.20 null null bZIP_1,beta-glucan,0.7206607686521611,0.0
+8.A.21 3.A.25 null Pribosyltran null GH15 null 1.I.1 null zf-MYND AA12 GH47 null 9.B.106 null 3.A.20 null null bZIP_1,beta-mannan,0.639829582042098,0.0
+8.A.21 3.A.25 null Pribosyltran null GH15 null 1.I.1 null zf-MYND AA12 GH47 null 9.B.106 null 3.A.20 null null bZIP_1,galactan,0.6445760517799353,0.0
+8.A.21 3.A.25 null Pribosyltran null GH15 null 1.I.1 null zf-MYND AA12 GH47 null 9.B.106 null 3.A.20 null null bZIP_1,chitin,0.5366666666666667,0.059234619140625
+8.A.21 3.A.25 null Pribosyltran null GH15 null 1.I.1 null zf-MYND AA12 GH47 null 9.B.106 null 3.A.20 null null bZIP_1,pectin,0.5366666666666667,0.059234619140625
+8.A.21 3.A.25 null Pribosyltran null GH15 null 1.I.1 null zf-MYND AA12 GH47 null 9.B.106 null 3.A.20 null null bZIP_1,host glycan,0.5158760940141733,0.4999999999999999
+8.A.21 3.A.25 null Pribosyltran null GH15 null 1.I.1 null zf-MYND AA12 GH47 null 9.B.106 null 3.A.20 null null bZIP_1,xylan,0.362,0.996307373046875
+8.A.21 3.A.25 null Pribosyltran null GH15 null 1.I.1 null zf-MYND AA12 GH47 null 9.B.106 null 3.A.20 null null bZIP_1,alginate,0.17933333333333332,0.999969482421875
+8.A.21 3.A.25 null Pribosyltran null GH15 null 1.I.1 null zf-MYND AA12 GH47 null 9.B.106 null 3.A.20 null null bZIP_1,alpha-mannan,0.15465129449838189,0.999969482421875
+8.A.21 3.A.25 null Pribosyltran null GH15 null 1.I.1 null zf-MYND AA12 GH47 null 9.B.106 null 3.A.20 null null bZIP_1,arabinogalactan,0.306,0.999969482421875
+8.A.21 3.A.25 null Pribosyltran null GH15 null 1.I.1 null zf-MYND AA12 GH47 null 9.B.106 null 3.A.20 null null bZIP_1,fructan,0.30199566965666563,0.999969482421875
+CBS CBS 1.I.1 null none null zf-C2H2 null null PAS PAS GATA GT25 null null GT48 GT24 null null 2.A.121,alpha-glucan,0.7566666666666666,0.0
+CBS CBS 1.I.1 null none null zf-C2H2 null null PAS PAS GATA GT25 null null GT48 GT24 null null 2.A.121,beta-glucan,0.7206607686521611,0.0
+CBS CBS 1.I.1 null none null zf-C2H2 null null PAS PAS GATA GT25 null null GT48 GT24 null null 2.A.121,beta-mannan,0.639829582042098,0.0
+CBS CBS 1.I.1 null none null zf-C2H2 null null PAS PAS GATA GT25 null null GT48 GT24 null null 2.A.121,galactan,0.6445760517799353,0.0
+CBS CBS 1.I.1 null none null zf-C2H2 null null PAS PAS GATA GT25 null null GT48 GT24 null null 2.A.121,chitin,0.5366666666666667,0.059234619140625
+CBS CBS 1.I.1 null none null zf-C2H2 null null PAS PAS GATA GT25 null null GT48 GT24 null null 2.A.121,pectin,0.5366666666666667,0.059234619140625
+CBS CBS 1.I.1 null none null zf-C2H2 null null PAS PAS GATA GT25 null null GT48 GT24 null null 2.A.121,host glycan,0.5158760940141733,0.4999999999999999
+CBS CBS 1.I.1 null none null zf-C2H2 null null PAS PAS GATA GT25 null null GT48 GT24 null null 2.A.121,xylan,0.362,0.996307373046875
+CBS CBS 1.I.1 null none null zf-C2H2 null null PAS PAS GATA GT25 null null GT48 GT24 null null 2.A.121,alginate,0.17933333333333332,0.999969482421875
+CBS CBS 1.I.1 null none null zf-C2H2 null null PAS PAS GATA GT25 null null GT48 GT24 null null 2.A.121,alpha-mannan,0.15465129449838189,0.999969482421875
+CBS CBS 1.I.1 null none null zf-C2H2 null null PAS PAS GATA GT25 null null GT48 GT24 null null 2.A.121,arabinogalactan,0.306,0.999969482421875
+CBS CBS 1.I.1 null none null zf-C2H2 null null PAS PAS GATA GT25 null null GT48 GT24 null null 2.A.121,fructan,0.30199566965666563,0.999969482421875
+Citrate_synt 2.A.29 WW null Aminotran_1_2 null 4.C.1 null null 9.A.63 GT39 none,alpha-glucan,0.7566666666666666,0.0
+Citrate_synt 2.A.29 WW null Aminotran_1_2 null 4.C.1 null null 9.A.63 GT39 none,beta-glucan,0.7206607686521611,0.0
+Citrate_synt 2.A.29 WW null Aminotran_1_2 null 4.C.1 null null 9.A.63 GT39 none,beta-mannan,0.639829582042098,0.0
+Citrate_synt 2.A.29 WW null Aminotran_1_2 null 4.C.1 null null 9.A.63 GT39 none,galactan,0.6445760517799353,0.0
+Citrate_synt 2.A.29 WW null Aminotran_1_2 null 4.C.1 null null 9.A.63 GT39 none,chitin,0.5366666666666667,0.059234619140625
+Citrate_synt 2.A.29 WW null Aminotran_1_2 null 4.C.1 null null 9.A.63 GT39 none,pectin,0.5366666666666667,0.059234619140625
+Citrate_synt 2.A.29 WW null Aminotran_1_2 null 4.C.1 null null 9.A.63 GT39 none,host glycan,0.5158760940141733,0.4999999999999999
+Citrate_synt 2.A.29 WW null Aminotran_1_2 null 4.C.1 null null 9.A.63 GT39 none,xylan,0.362,0.996307373046875
+Citrate_synt 2.A.29 WW null Aminotran_1_2 null 4.C.1 null null 9.A.63 GT39 none,alginate,0.17933333333333332,0.999969482421875
+Citrate_synt 2.A.29 WW null Aminotran_1_2 null 4.C.1 null null 9.A.63 GT39 none,alpha-mannan,0.15465129449838189,0.999969482421875
+Citrate_synt 2.A.29 WW null Aminotran_1_2 null 4.C.1 null null 9.A.63 GT39 none,arabinogalactan,0.306,0.999969482421875
+Citrate_synt 2.A.29 WW null Aminotran_1_2 null 4.C.1 null null 9.A.63 GT39 none,fructan,0.30199566965666563,0.999969482421875
+GH11 null GH28 null 2.A.1 null Zn_clus HD null 9.A.26,alpha-glucan,0.7566666666666666,0.0
+GH11 null GH28 null 2.A.1 null Zn_clus HD null 9.A.26,beta-glucan,0.7206607686521611,0.0
+GH11 null GH28 null 2.A.1 null Zn_clus HD null 9.A.26,beta-mannan,0.639829582042098,0.0
+GH11 null GH28 null 2.A.1 null Zn_clus HD null 9.A.26,galactan,0.6445760517799353,0.0
+GH11 null GH28 null 2.A.1 null Zn_clus HD null 9.A.26,chitin,0.5366666666666667,0.059234619140625
+GH11 null GH28 null 2.A.1 null Zn_clus HD null 9.A.26,pectin,0.5366666666666667,0.059234619140625
+GH11 null GH28 null 2.A.1 null Zn_clus HD null 9.A.26,host glycan,0.5158760940141733,0.4999999999999999
+GH11 null GH28 null 2.A.1 null Zn_clus HD null 9.A.26,xylan,0.362,0.996307373046875
+GH11 null GH28 null 2.A.1 null Zn_clus HD null 9.A.26,alginate,0.17933333333333332,0.999969482421875
+GH11 null GH28 null 2.A.1 null Zn_clus HD null 9.A.26,alpha-mannan,0.15465129449838189,0.999969482421875
+GH11 null GH28 null 2.A.1 null Zn_clus HD null 9.A.26,arabinogalactan,0.306,0.999969482421875
+GH11 null GH28 null 2.A.1 null Zn_clus HD null 9.A.26,fructan,0.30199566965666563,0.999969482421875
+GH3 GH3 Rhodanese null null Zn_clus null Pkinase Pkinase 2.A.1 AA7 2.A.1 Zn_clus null null GH27 GH2 null null Zn_clus null 2.A.1 Aminotran_1_2,alpha-glucan,0.7566666666666666,0.0
+GH3 GH3 Rhodanese null null Zn_clus null Pkinase Pkinase 2.A.1 AA7 2.A.1 Zn_clus null null GH27 GH2 null null Zn_clus null 2.A.1 Aminotran_1_2,beta-glucan,0.7206607686521611,0.0
+GH3 GH3 Rhodanese null null Zn_clus null Pkinase Pkinase 2.A.1 AA7 2.A.1 Zn_clus null null GH27 GH2 null null Zn_clus null 2.A.1 Aminotran_1_2,beta-mannan,0.639829582042098,0.0
+GH3 GH3 Rhodanese null null Zn_clus null Pkinase Pkinase 2.A.1 AA7 2.A.1 Zn_clus null null GH27 GH2 null null Zn_clus null 2.A.1 Aminotran_1_2,galactan,0.6445760517799353,0.0
+GH3 GH3 Rhodanese null null Zn_clus null Pkinase Pkinase 2.A.1 AA7 2.A.1 Zn_clus null null GH27 GH2 null null Zn_clus null 2.A.1 Aminotran_1_2,chitin,0.5366666666666667,0.059234619140625
+GH3 GH3 Rhodanese null null Zn_clus null Pkinase Pkinase 2.A.1 AA7 2.A.1 Zn_clus null null GH27 GH2 null null Zn_clus null 2.A.1 Aminotran_1_2,pectin,0.5366666666666667,0.059234619140625
+GH3 GH3 Rhodanese null null Zn_clus null Pkinase Pkinase 2.A.1 AA7 2.A.1 Zn_clus null null GH27 GH2 null null Zn_clus null 2.A.1 Aminotran_1_2,host glycan,0.5158760940141733,0.4999999999999999
+GH3 GH3 Rhodanese null null Zn_clus null Pkinase Pkinase 2.A.1 AA7 2.A.1 Zn_clus null null GH27 GH2 null null Zn_clus null 2.A.1 Aminotran_1_2,xylan,0.362,0.996307373046875
+GH3 GH3 Rhodanese null null Zn_clus null Pkinase Pkinase 2.A.1 AA7 2.A.1 Zn_clus null null GH27 GH2 null null Zn_clus null 2.A.1 Aminotran_1_2,alginate,0.17933333333333332,0.999969482421875
+GH3 GH3 Rhodanese null null Zn_clus null Pkinase Pkinase 2.A.1 AA7 2.A.1 Zn_clus null null GH27 GH2 null null Zn_clus null 2.A.1 Aminotran_1_2,alpha-mannan,0.15465129449838189,0.999969482421875
+GH3 GH3 Rhodanese null null Zn_clus null Pkinase Pkinase 2.A.1 AA7 2.A.1 Zn_clus null null GH27 GH2 null null Zn_clus null 2.A.1 Aminotran_1_2,arabinogalactan,0.306,0.999969482421875
+GH3 GH3 Rhodanese null null Zn_clus null Pkinase Pkinase 2.A.1 AA7 2.A.1 Zn_clus null null GH27 GH2 null null Zn_clus null 2.A.1 Aminotran_1_2,fructan,0.30199566965666563,0.999969482421875
+GT1 3.A.1 null Pyr_redox_2 Myb_DNA-binding Myb_DNA-binding,alpha-glucan,0.7566666666666666,0.0
+GT1 3.A.1 null Pyr_redox_2 Myb_DNA-binding Myb_DNA-binding,beta-glucan,0.7206607686521611,0.0
+GT1 3.A.1 null Pyr_redox_2 Myb_DNA-binding Myb_DNA-binding,beta-mannan,0.639829582042098,0.0
+GT1 3.A.1 null Pyr_redox_2 Myb_DNA-binding Myb_DNA-binding,galactan,0.6445760517799353,0.0
+GT1 3.A.1 null Pyr_redox_2 Myb_DNA-binding Myb_DNA-binding,chitin,0.5366666666666667,0.059234619140625
+GT1 3.A.1 null Pyr_redox_2 Myb_DNA-binding Myb_DNA-binding,pectin,0.5366666666666667,0.059234619140625
+GT1 3.A.1 null Pyr_redox_2 Myb_DNA-binding Myb_DNA-binding,host glycan,0.5158760940141733,0.4999999999999999
+GT1 3.A.1 null Pyr_redox_2 Myb_DNA-binding Myb_DNA-binding,xylan,0.362,0.996307373046875
+GT1 3.A.1 null Pyr_redox_2 Myb_DNA-binding Myb_DNA-binding,alginate,0.17933333333333332,0.999969482421875
+GT1 3.A.1 null Pyr_redox_2 Myb_DNA-binding Myb_DNA-binding,alpha-mannan,0.15465129449838189,0.999969482421875
+GT1 3.A.1 null Pyr_redox_2 Myb_DNA-binding Myb_DNA-binding,arabinogalactan,0.306,0.999969482421875
+GT1 3.A.1 null Pyr_redox_2 Myb_DNA-binding Myb_DNA-binding,fructan,0.30199566965666563,0.999969482421875
+Nitroreductase null Zn_clus GH3 2.A.1 Acetyltransf_1,alpha-glucan,0.7566666666666666,0.0
+Nitroreductase null Zn_clus GH3 2.A.1 Acetyltransf_1,beta-glucan,0.7206607686521611,0.0
+Nitroreductase null Zn_clus GH3 2.A.1 Acetyltransf_1,beta-mannan,0.639829582042098,0.0
+Nitroreductase null Zn_clus GH3 2.A.1 Acetyltransf_1,galactan,0.6445760517799353,0.0
+Nitroreductase null Zn_clus GH3 2.A.1 Acetyltransf_1,chitin,0.5366666666666667,0.059234619140625
+Nitroreductase null Zn_clus GH3 2.A.1 Acetyltransf_1,pectin,0.5366666666666667,0.059234619140625
+Nitroreductase null Zn_clus GH3 2.A.1 Acetyltransf_1,host glycan,0.5158760940141733,0.4999999999999999
+Nitroreductase null Zn_clus GH3 2.A.1 Acetyltransf_1,xylan,0.362,0.996307373046875
+Nitroreductase null Zn_clus GH3 2.A.1 Acetyltransf_1,alginate,0.17933333333333332,0.999969482421875
+Nitroreductase null Zn_clus GH3 2.A.1 Acetyltransf_1,alpha-mannan,0.15465129449838189,0.999969482421875
+Nitroreductase null Zn_clus GH3 2.A.1 Acetyltransf_1,arabinogalactan,0.306,0.999969482421875
+Nitroreductase null Zn_clus GH3 2.A.1 Acetyltransf_1,fructan,0.30199566965666563,0.999969482421875
+PALP GH3 null 9.A.60 null PL7_4 GH75 null null none,alpha-glucan,0.7566666666666666,0.0
+PALP GH3 null 9.A.60 null PL7_4 GH75 null null none,beta-glucan,0.7206607686521611,0.0
+PALP GH3 null 9.A.60 null PL7_4 GH75 null null none,beta-mannan,0.639829582042098,0.0
+PALP GH3 null 9.A.60 null PL7_4 GH75 null null none,galactan,0.6445760517799353,0.0
+PALP GH3 null 9.A.60 null PL7_4 GH75 null null none,chitin,0.5366666666666667,0.059234619140625
+PALP GH3 null 9.A.60 null PL7_4 GH75 null null none,pectin,0.5366666666666667,0.059234619140625
+PALP GH3 null 9.A.60 null PL7_4 GH75 null null none,host glycan,0.5158760940141733,0.4999999999999999
+PALP GH3 null 9.A.60 null PL7_4 GH75 null null none,xylan,0.362,0.996307373046875
+PALP GH3 null 9.A.60 null PL7_4 GH75 null null none,alginate,0.17933333333333332,0.999969482421875
+PALP GH3 null 9.A.60 null PL7_4 GH75 null null none,alpha-mannan,0.15465129449838189,0.999969482421875
+PALP GH3 null 9.A.60 null PL7_4 GH75 null null none,arabinogalactan,0.306,0.999969482421875
+PALP GH3 null 9.A.60 null PL7_4 GH75 null null none,fructan,0.30199566965666563,0.999969482421875
+Pkinase none SWIB null GT31_e75 null null 2.A.21 null null 2.A.3 null Zn_clus null null 2.A.1 Zn_clus 2.A.1 null PALP null 2.A.18 2.A.3 null null Pyr_redox_2 none null null GH5_5,alpha-glucan,0.7566666666666666,0.0
+Pkinase none SWIB null GT31_e75 null null 2.A.21 null null 2.A.3 null Zn_clus null null 2.A.1 Zn_clus 2.A.1 null PALP null 2.A.18 2.A.3 null null Pyr_redox_2 none null null GH5_5,beta-glucan,0.7206607686521611,0.0
+Pkinase none SWIB null GT31_e75 null null 2.A.21 null null 2.A.3 null Zn_clus null null 2.A.1 Zn_clus 2.A.1 null PALP null 2.A.18 2.A.3 null null Pyr_redox_2 none null null GH5_5,beta-mannan,0.639829582042098,0.0
+Pkinase none SWIB null GT31_e75 null null 2.A.21 null null 2.A.3 null Zn_clus null null 2.A.1 Zn_clus 2.A.1 null PALP null 2.A.18 2.A.3 null null Pyr_redox_2 none null null GH5_5,galactan,0.6445760517799353,0.0
+Pkinase none SWIB null GT31_e75 null null 2.A.21 null null 2.A.3 null Zn_clus null null 2.A.1 Zn_clus 2.A.1 null PALP null 2.A.18 2.A.3 null null Pyr_redox_2 none null null GH5_5,chitin,0.5366666666666667,0.059234619140625
+Pkinase none SWIB null GT31_e75 null null 2.A.21 null null 2.A.3 null Zn_clus null null 2.A.1 Zn_clus 2.A.1 null PALP null 2.A.18 2.A.3 null null Pyr_redox_2 none null null GH5_5,pectin,0.5366666666666667,0.059234619140625
+Pkinase none SWIB null GT31_e75 null null 2.A.21 null null 2.A.3 null Zn_clus null null 2.A.1 Zn_clus 2.A.1 null PALP null 2.A.18 2.A.3 null null Pyr_redox_2 none null null GH5_5,host glycan,0.5158760940141733,0.4999999999999999
+Pkinase none SWIB null GT31_e75 null null 2.A.21 null null 2.A.3 null Zn_clus null null 2.A.1 Zn_clus 2.A.1 null PALP null 2.A.18 2.A.3 null null Pyr_redox_2 none null null GH5_5,xylan,0.362,0.996307373046875
+Pkinase none SWIB null GT31_e75 null null 2.A.21 null null 2.A.3 null Zn_clus null null 2.A.1 Zn_clus 2.A.1 null PALP null 2.A.18 2.A.3 null null Pyr_redox_2 none null null GH5_5,alginate,0.17933333333333332,0.999969482421875
+Pkinase none SWIB null GT31_e75 null null 2.A.21 null null 2.A.3 null Zn_clus null null 2.A.1 Zn_clus 2.A.1 null PALP null 2.A.18 2.A.3 null null Pyr_redox_2 none null null GH5_5,alpha-mannan,0.15465129449838189,0.999969482421875
+Pkinase none SWIB null GT31_e75 null null 2.A.21 null null 2.A.3 null Zn_clus null null 2.A.1 Zn_clus 2.A.1 null PALP null 2.A.18 2.A.3 null null Pyr_redox_2 none null null GH5_5,arabinogalactan,0.306,0.999969482421875
+Pkinase none SWIB null GT31_e75 null null 2.A.21 null null 2.A.3 null Zn_clus null null 2.A.1 Zn_clus 2.A.1 null PALP null 2.A.18 2.A.3 null null Pyr_redox_2 none null null GH5_5,fructan,0.30199566965666563,0.999969482421875
+Pkinase null null GH10 Zn_clus 2.A.3,alpha-glucan,0.7566666666666666,0.0
+Pkinase null null GH10 Zn_clus 2.A.3,beta-glucan,0.7206607686521611,0.0
+Pkinase null null GH10 Zn_clus 2.A.3,beta-mannan,0.639829582042098,0.0
+Pkinase null null GH10 Zn_clus 2.A.3,galactan,0.6445760517799353,0.0
+Pkinase null null GH10 Zn_clus 2.A.3,chitin,0.5366666666666667,0.059234619140625
+Pkinase null null GH10 Zn_clus 2.A.3,pectin,0.5366666666666667,0.059234619140625
+Pkinase null null GH10 Zn_clus 2.A.3,host glycan,0.5158760940141733,0.4999999999999999
+Pkinase null null GH10 Zn_clus 2.A.3,xylan,0.362,0.996307373046875
+Pkinase null null GH10 Zn_clus 2.A.3,alginate,0.17933333333333332,0.999969482421875
+Pkinase null null GH10 Zn_clus 2.A.3,alpha-mannan,0.15465129449838189,0.999969482421875
+Pkinase null null GH10 Zn_clus 2.A.3,arabinogalactan,0.306,0.999969482421875
+Pkinase null null GH10 Zn_clus 2.A.3,fructan,0.30199566965666563,0.999969482421875
+Pyr_redox_2 2.A.1 null 3.D.1 null null GH55 TEA,alpha-glucan,0.7566666666666666,0.0
+Pyr_redox_2 2.A.1 null 3.D.1 null null GH55 TEA,beta-glucan,0.7206607686521611,0.0
+Pyr_redox_2 2.A.1 null 3.D.1 null null GH55 TEA,beta-mannan,0.639829582042098,0.0
+Pyr_redox_2 2.A.1 null 3.D.1 null null GH55 TEA,galactan,0.6445760517799353,0.0
+Pyr_redox_2 2.A.1 null 3.D.1 null null GH55 TEA,chitin,0.5366666666666667,0.059234619140625
+Pyr_redox_2 2.A.1 null 3.D.1 null null GH55 TEA,pectin,0.5366666666666667,0.059234619140625
+Pyr_redox_2 2.A.1 null 3.D.1 null null GH55 TEA,host glycan,0.5158760940141733,0.4999999999999999
+Pyr_redox_2 2.A.1 null 3.D.1 null null GH55 TEA,xylan,0.362,0.996307373046875
+Pyr_redox_2 2.A.1 null 3.D.1 null null GH55 TEA,alginate,0.17933333333333332,0.999969482421875
+Pyr_redox_2 2.A.1 null 3.D.1 null null GH55 TEA,alpha-mannan,0.15465129449838189,0.999969482421875
+Pyr_redox_2 2.A.1 null 3.D.1 null null GH55 TEA,arabinogalactan,0.306,0.999969482421875
+Pyr_redox_2 2.A.1 null 3.D.1 null null GH55 TEA,fructan,0.30199566965666563,0.999969482421875
+Pyr_redox_2 NIR_SIR_ferr NIR_SIR 2.A.1 GH2 null PL20 CE15 GH30_7 bZIP_1,alpha-glucan,0.7566666666666666,0.0
+Pyr_redox_2 NIR_SIR_ferr NIR_SIR 2.A.1 GH2 null PL20 CE15 GH30_7 bZIP_1,beta-glucan,0.7206607686521611,0.0
+Pyr_redox_2 NIR_SIR_ferr NIR_SIR 2.A.1 GH2 null PL20 CE15 GH30_7 bZIP_1,beta-mannan,0.639829582042098,0.0
+Pyr_redox_2 NIR_SIR_ferr NIR_SIR 2.A.1 GH2 null PL20 CE15 GH30_7 bZIP_1,galactan,0.6445760517799353,0.0
+Pyr_redox_2 NIR_SIR_ferr NIR_SIR 2.A.1 GH2 null PL20 CE15 GH30_7 bZIP_1,chitin,0.5366666666666667,0.059234619140625
+Pyr_redox_2 NIR_SIR_ferr NIR_SIR 2.A.1 GH2 null PL20 CE15 GH30_7 bZIP_1,pectin,0.5366666666666667,0.059234619140625
+Pyr_redox_2 NIR_SIR_ferr NIR_SIR 2.A.1 GH2 null PL20 CE15 GH30_7 bZIP_1,host glycan,0.5158760940141733,0.4999999999999999
+Pyr_redox_2 NIR_SIR_ferr NIR_SIR 2.A.1 GH2 null PL20 CE15 GH30_7 bZIP_1,xylan,0.362,0.996307373046875
+Pyr_redox_2 NIR_SIR_ferr NIR_SIR 2.A.1 GH2 null PL20 CE15 GH30_7 bZIP_1,alginate,0.17933333333333332,0.999969482421875
+Pyr_redox_2 NIR_SIR_ferr NIR_SIR 2.A.1 GH2 null PL20 CE15 GH30_7 bZIP_1,alpha-mannan,0.15465129449838189,0.999969482421875
+Pyr_redox_2 NIR_SIR_ferr NIR_SIR 2.A.1 GH2 null PL20 CE15 GH30_7 bZIP_1,arabinogalactan,0.306,0.999969482421875
+Pyr_redox_2 NIR_SIR_ferr NIR_SIR 2.A.1 GH2 null PL20 CE15 GH30_7 bZIP_1,fructan,0.30199566965666563,0.999969482421875
+ZZ 2.A.89 Ada_Zn_binding HTH_18 null null GT50,alpha-glucan,0.7566666666666666,0.0
+ZZ 2.A.89 Ada_Zn_binding HTH_18 null null GT50,beta-glucan,0.7206607686521611,0.0
+ZZ 2.A.89 Ada_Zn_binding HTH_18 null null GT50,beta-mannan,0.639829582042098,0.0
+ZZ 2.A.89 Ada_Zn_binding HTH_18 null null GT50,galactan,0.6445760517799353,0.0
+ZZ 2.A.89 Ada_Zn_binding HTH_18 null null GT50,chitin,0.5366666666666667,0.059234619140625
+ZZ 2.A.89 Ada_Zn_binding HTH_18 null null GT50,pectin,0.5366666666666667,0.059234619140625
+ZZ 2.A.89 Ada_Zn_binding HTH_18 null null GT50,host glycan,0.5158760940141733,0.4999999999999999
+ZZ 2.A.89 Ada_Zn_binding HTH_18 null null GT50,xylan,0.362,0.996307373046875
+ZZ 2.A.89 Ada_Zn_binding HTH_18 null null GT50,alginate,0.17933333333333332,0.999969482421875
+ZZ 2.A.89 Ada_Zn_binding HTH_18 null null GT50,alpha-mannan,0.15465129449838189,0.999969482421875
+ZZ 2.A.89 Ada_Zn_binding HTH_18 null null GT50,arabinogalactan,0.306,0.999969482421875
+ZZ 2.A.89 Ada_Zn_binding HTH_18 null null GT50,fructan,0.30199566965666563,0.999969482421875
+Zn_clus GH2 2.A.1 GH31 2.A.1 Homeodomain zf-C2H2 PALP 2.A.1,alpha-glucan,0.7566666666666666,0.0
+Zn_clus GH2 2.A.1 GH31 2.A.1 Homeodomain zf-C2H2 PALP 2.A.1,beta-glucan,0.7206607686521611,0.0
+Zn_clus GH2 2.A.1 GH31 2.A.1 Homeodomain zf-C2H2 PALP 2.A.1,beta-mannan,0.639829582042098,0.0
+Zn_clus GH2 2.A.1 GH31 2.A.1 Homeodomain zf-C2H2 PALP 2.A.1,galactan,0.6445760517799353,0.0
+Zn_clus GH2 2.A.1 GH31 2.A.1 Homeodomain zf-C2H2 PALP 2.A.1,chitin,0.5366666666666667,0.059234619140625
+Zn_clus GH2 2.A.1 GH31 2.A.1 Homeodomain zf-C2H2 PALP 2.A.1,pectin,0.5366666666666667,0.059234619140625
+Zn_clus GH2 2.A.1 GH31 2.A.1 Homeodomain zf-C2H2 PALP 2.A.1,host glycan,0.5158760940141733,0.4999999999999999
+Zn_clus GH2 2.A.1 GH31 2.A.1 Homeodomain zf-C2H2 PALP 2.A.1,xylan,0.362,0.996307373046875
+Zn_clus GH2 2.A.1 GH31 2.A.1 Homeodomain zf-C2H2 PALP 2.A.1,alginate,0.17933333333333332,0.999969482421875
+Zn_clus GH2 2.A.1 GH31 2.A.1 Homeodomain zf-C2H2 PALP 2.A.1,alpha-mannan,0.15465129449838189,0.999969482421875
+Zn_clus GH2 2.A.1 GH31 2.A.1 Homeodomain zf-C2H2 PALP 2.A.1,arabinogalactan,0.306,0.999969482421875
+Zn_clus GH2 2.A.1 GH31 2.A.1 Homeodomain zf-C2H2 PALP 2.A.1,fructan,0.30199566965666563,0.999969482421875
+Zn_clus null 2.A.1 2.A.1 Zn_clus 9.B.106 null 1.A.1 PALP null GH76 null none,alpha-glucan,0.7566666666666666,0.0
+Zn_clus null 2.A.1 2.A.1 Zn_clus 9.B.106 null 1.A.1 PALP null GH76 null none,beta-glucan,0.7206607686521611,0.0
+Zn_clus null 2.A.1 2.A.1 Zn_clus 9.B.106 null 1.A.1 PALP null GH76 null none,beta-mannan,0.639829582042098,0.0
+Zn_clus null 2.A.1 2.A.1 Zn_clus 9.B.106 null 1.A.1 PALP null GH76 null none,galactan,0.6445760517799353,0.0
+Zn_clus null 2.A.1 2.A.1 Zn_clus 9.B.106 null 1.A.1 PALP null GH76 null none,chitin,0.5366666666666667,0.059234619140625
+Zn_clus null 2.A.1 2.A.1 Zn_clus 9.B.106 null 1.A.1 PALP null GH76 null none,pectin,0.5366666666666667,0.059234619140625
+Zn_clus null 2.A.1 2.A.1 Zn_clus 9.B.106 null 1.A.1 PALP null GH76 null none,host glycan,0.5158760940141733,0.4999999999999999
+Zn_clus null 2.A.1 2.A.1 Zn_clus 9.B.106 null 1.A.1 PALP null GH76 null none,xylan,0.362,0.996307373046875
+Zn_clus null 2.A.1 2.A.1 Zn_clus 9.B.106 null 1.A.1 PALP null GH76 null none,alginate,0.17933333333333332,0.999969482421875
+Zn_clus null 2.A.1 2.A.1 Zn_clus 9.B.106 null 1.A.1 PALP null GH76 null none,alpha-mannan,0.15465129449838189,0.999969482421875
+Zn_clus null 2.A.1 2.A.1 Zn_clus 9.B.106 null 1.A.1 PALP null GH76 null none,arabinogalactan,0.306,0.999969482421875
+Zn_clus null 2.A.1 2.A.1 Zn_clus 9.B.106 null 1.A.1 PALP null GH76 null none,fructan,0.30199566965666563,0.999969482421875
+Zn_clus null 2.A.1 null GH27 2.A.1 null null Zn_clus null 2.A.67 null GH89 null 2.A.1 null null Pkinase,alpha-glucan,0.7566666666666666,0.0
+Zn_clus null 2.A.1 null GH27 2.A.1 null null Zn_clus null 2.A.67 null GH89 null 2.A.1 null null Pkinase,beta-glucan,0.7206607686521611,0.0
+Zn_clus null 2.A.1 null GH27 2.A.1 null null Zn_clus null 2.A.67 null GH89 null 2.A.1 null null Pkinase,beta-mannan,0.639829582042098,0.0
+Zn_clus null 2.A.1 null GH27 2.A.1 null null Zn_clus null 2.A.67 null GH89 null 2.A.1 null null Pkinase,galactan,0.6445760517799353,0.0
+Zn_clus null 2.A.1 null GH27 2.A.1 null null Zn_clus null 2.A.67 null GH89 null 2.A.1 null null Pkinase,chitin,0.5366666666666667,0.059234619140625
+Zn_clus null 2.A.1 null GH27 2.A.1 null null Zn_clus null 2.A.67 null GH89 null 2.A.1 null null Pkinase,pectin,0.5366666666666667,0.059234619140625
+Zn_clus null 2.A.1 null GH27 2.A.1 null null Zn_clus null 2.A.67 null GH89 null 2.A.1 null null Pkinase,host glycan,0.5158760940141733,0.4999999999999999
+Zn_clus null 2.A.1 null GH27 2.A.1 null null Zn_clus null 2.A.67 null GH89 null 2.A.1 null null Pkinase,xylan,0.362,0.996307373046875
+Zn_clus null 2.A.1 null GH27 2.A.1 null null Zn_clus null 2.A.67 null GH89 null 2.A.1 null null Pkinase,alginate,0.17933333333333332,0.999969482421875
+Zn_clus null 2.A.1 null GH27 2.A.1 null null Zn_clus null 2.A.67 null GH89 null 2.A.1 null null Pkinase,alpha-mannan,0.15465129449838189,0.999969482421875
+Zn_clus null 2.A.1 null GH27 2.A.1 null null Zn_clus null 2.A.67 null GH89 null 2.A.1 null null Pkinase,arabinogalactan,0.306,0.999969482421875
+Zn_clus null 2.A.1 null GH27 2.A.1 null null Zn_clus null 2.A.67 null GH89 null 2.A.1 null null Pkinase,fructan,0.30199566965666563,0.999969482421875
+none PHD null 9.B.105 null null WW NUDIX Zn_clus Pyr_redox_2 4.C.1 AA3,alpha-glucan,0.7566666666666666,0.0
+none PHD null 9.B.105 null null WW NUDIX Zn_clus Pyr_redox_2 4.C.1 AA3,beta-glucan,0.7206607686521611,0.0
+none PHD null 9.B.105 null null WW NUDIX Zn_clus Pyr_redox_2 4.C.1 AA3,beta-mannan,0.639829582042098,0.0
+none PHD null 9.B.105 null null WW NUDIX Zn_clus Pyr_redox_2 4.C.1 AA3,galactan,0.6445760517799353,0.0
+none PHD null 9.B.105 null null WW NUDIX Zn_clus Pyr_redox_2 4.C.1 AA3,chitin,0.5366666666666667,0.059234619140625
+none PHD null 9.B.105 null null WW NUDIX Zn_clus Pyr_redox_2 4.C.1 AA3,pectin,0.5366666666666667,0.059234619140625
+none PHD null 9.B.105 null null WW NUDIX Zn_clus Pyr_redox_2 4.C.1 AA3,host glycan,0.5158760940141733,0.4999999999999999
+none PHD null 9.B.105 null null WW NUDIX Zn_clus Pyr_redox_2 4.C.1 AA3,xylan,0.362,0.996307373046875
+none PHD null 9.B.105 null null WW NUDIX Zn_clus Pyr_redox_2 4.C.1 AA3,alginate,0.17933333333333332,0.999969482421875
+none PHD null 9.B.105 null null WW NUDIX Zn_clus Pyr_redox_2 4.C.1 AA3,alpha-mannan,0.15465129449838189,0.999969482421875
+none PHD null 9.B.105 null null WW NUDIX Zn_clus Pyr_redox_2 4.C.1 AA3,arabinogalactan,0.306,0.999969482421875
+none PHD null 9.B.105 null null WW NUDIX Zn_clus Pyr_redox_2 4.C.1 AA3,fructan,0.30199566965666563,0.999969482421875
+none null null Zn_clus null null Acetyltransf_1 Zn_clus Pyr_redox 2.A.29 null Zn_clus null null GH55,alpha-glucan,0.7566666666666666,0.0
+none null null Zn_clus null null Acetyltransf_1 Zn_clus Pyr_redox 2.A.29 null Zn_clus null null GH55,beta-glucan,0.7206607686521611,0.0
+none null null Zn_clus null null Acetyltransf_1 Zn_clus Pyr_redox 2.A.29 null Zn_clus null null GH55,beta-mannan,0.639829582042098,0.0
+none null null Zn_clus null null Acetyltransf_1 Zn_clus Pyr_redox 2.A.29 null Zn_clus null null GH55,galactan,0.6445760517799353,0.0
+none null null Zn_clus null null Acetyltransf_1 Zn_clus Pyr_redox 2.A.29 null Zn_clus null null GH55,chitin,0.5366666666666667,0.059234619140625
+none null null Zn_clus null null Acetyltransf_1 Zn_clus Pyr_redox 2.A.29 null Zn_clus null null GH55,pectin,0.5366666666666667,0.059234619140625
+none null null Zn_clus null null Acetyltransf_1 Zn_clus Pyr_redox 2.A.29 null Zn_clus null null GH55,host glycan,0.5158760940141733,0.4999999999999999
+none null null Zn_clus null null Acetyltransf_1 Zn_clus Pyr_redox 2.A.29 null Zn_clus null null GH55,xylan,0.362,0.996307373046875
+none null null Zn_clus null null Acetyltransf_1 Zn_clus Pyr_redox 2.A.29 null Zn_clus null null GH55,alginate,0.17933333333333332,0.999969482421875
+none null null Zn_clus null null Acetyltransf_1 Zn_clus Pyr_redox 2.A.29 null Zn_clus null null GH55,alpha-mannan,0.15465129449838189,0.999969482421875
+none null null Zn_clus null null Acetyltransf_1 Zn_clus Pyr_redox 2.A.29 null Zn_clus null null GH55,arabinogalactan,0.306,0.999969482421875
+none null null Zn_clus null null Acetyltransf_1 Zn_clus Pyr_redox 2.A.29 null Zn_clus null null GH55,fructan,0.30199566965666563,0.999969482421875
+zf-C3HC4 null 3.A.8 Pribosyltran null GH47,alpha-glucan,0.7566666666666666,0.0
+zf-C3HC4 null 3.A.8 Pribosyltran null GH47,beta-glucan,0.7206607686521611,0.0
+zf-C3HC4 null 3.A.8 Pribosyltran null GH47,beta-mannan,0.639829582042098,0.0
+zf-C3HC4 null 3.A.8 Pribosyltran null GH47,galactan,0.6445760517799353,0.0
+zf-C3HC4 null 3.A.8 Pribosyltran null GH47,chitin,0.5366666666666667,0.059234619140625
+zf-C3HC4 null 3.A.8 Pribosyltran null GH47,pectin,0.5366666666666667,0.059234619140625
+zf-C3HC4 null 3.A.8 Pribosyltran null GH47,host glycan,0.5158760940141733,0.4999999999999999
+zf-C3HC4 null 3.A.8 Pribosyltran null GH47,xylan,0.362,0.996307373046875
+zf-C3HC4 null 3.A.8 Pribosyltran null GH47,alginate,0.17933333333333332,0.999969482421875
+zf-C3HC4 null 3.A.8 Pribosyltran null GH47,alpha-mannan,0.15465129449838189,0.999969482421875
+zf-C3HC4 null 3.A.8 Pribosyltran null GH47,arabinogalactan,0.306,0.999969482421875
+zf-C3HC4 null 3.A.8 Pribosyltran null GH47,fructan,0.30199566965666563,0.999969482421875
